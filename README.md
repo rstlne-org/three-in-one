@@ -1,2 +1,2 @@
-# three-in-one
+# Triads
 three in one
